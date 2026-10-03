@@ -1,2 +1,7 @@
-flask
-gunicorn
+streamlit
+pillow
+easyocr
+opencv-python-headless
+numpy
+re
+pdf2image
